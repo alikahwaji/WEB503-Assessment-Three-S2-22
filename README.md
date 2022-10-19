@@ -62,7 +62,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 ## :books: Resources 
 
 |[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[Agile team workflow blog](https://clickup.com/blog/agile-workflow/)|[Assessment Three Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/ET8crXwRsRZBi5WqDBGxdIMB1tTGuoiS3PXDo9IOX9pltQ?e=CS5hfn)|
-|---|---|---|---|
+
 
 
 
